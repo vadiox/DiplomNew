@@ -3,7 +3,26 @@
 
     <string name="app_name">DiplomNew</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
+    //main screen Menu
+    <string name="title_words">Words</string>
+    <string name="twenty_five_frames">25 кадр</string>
+    <string name="bilateral_cards">Двосторонні картки</string>
+    <string name="associated_cards">Асоційовані картки</string>
+    <string name="statistics">Статистика</string>
+    <string name="title_activity_menu_words">MenuWords</string>
+    <string name="title_activity_reading_json">ReadingJSON</string>
+    <string name="title_activity_menu_tw_five_frame">MenuTwFiveFrame</string>
+    <string name="title_activity_menu_bilateral_cards">MenuBilateralCards</string>
+    <string name="title_activity_menu_associated_cards">MenuAssociatedCards</string>
+    <string name="title_activity_menu_statistics">MenuStatistics</string>
+    //main menu Setting
+    <string name="action_settings">Настройки</string>
+    <string name="action_clear_statistics">Обнулити статистику</string>
+    <string name="action_instruction">Інструкція</string>
+    <string name="action_about">Про програму</string>
+    <string name="action_reset">Спочатку</string>
+    <string name="actoin_main_menu">Головне меню</string>
+
 
 </resources>
